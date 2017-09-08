@@ -117,6 +117,7 @@ module.exports = {
   mapAccum: require('./src/mapAccum'),
   mapAccumRight: require('./src/mapAccumRight'),
   mapObjIndexed: require('./src/mapObjIndexed'),
+  mapWhile: require('./src/mapWhile'),
   match: require('./src/match'),
   mathMod: require('./src/mathMod'),
   max: require('./src/max'),
